@@ -9,39 +9,11 @@
         <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_916ac69a6aa3338a161de095f4134778d201d9b0\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_c4e282625d1cacfd378cfe2c214357df38513ad1\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="2116d639a4327850969ab9760be03aeb0357afc4">
-        <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_af03578b4ed2d60700fa72aab7b964e3c99e862d\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_3caa8769be534044bbf13466ab31110b7dc0ba80\classes.dex" />
-    </item>
-    <item
         jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
         <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_f57ef987f79de70b140cd34eaf47bfeaf50e50b0\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_f830a5b80b1ac4cf725fb216776057c215905edf\classes.dex" />
     </item>
     <item
         jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
@@ -58,6 +30,62 @@
         <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f0b06bdbffb89f2a291fe011255e1641ecfa2482\classes.dex" />
     </item>
     <item
+        jar="C:\Users\Samir\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_933aec87e7280e313a2e7192be60642585d1f986\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_5834769430fb5960c11ba9412a64b271d234aec5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_f30a6656b0a12c746147f55c0b310cfa212ad697\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_12d3a7e0736baba76139ce0ff6405f76cdff2522\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_c4e282625d1cacfd378cfe2c214357df38513ad1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a8d51ac56b347bd2765215c692a3bd2b140d397e">
+        <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_af03578b4ed2d60700fa72aab7b964e3c99e862d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_3caa8769be534044bbf13466ab31110b7dc0ba80\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_f830a5b80b1ac4cf725fb216776057c215905edf\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="true"
         revision="24.0.1"
@@ -70,13 +98,6 @@
         revision="24.0.1"
         sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
         <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_d6873080de9df6fd2d48bcd790dbbba816ad6da8\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Samir\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_933aec87e7280e313a2e7192be60642585d1f986\classes.dex" />
     </item>
     <item
         jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
@@ -93,25 +114,11 @@
         <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_72f3e1e4db0f87ab7bbecda5849ca8a97d9160fd\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_5834769430fb5960c11ba9412a64b271d234aec5\classes.dex" />
-    </item>
-    <item
         jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="fd8d126a2c1dc77b4ee1993b12e2692a1522b99b">
+        sha1="439a58dae49f2300cbaf16357c62dd3428cbb0ab">
         <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f4acd7ffc765cfa07368fe0fdc89337d254b501c\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
-        <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_f30a6656b0a12c746147f55c0b310cfa212ad697\classes.dex" />
     </item>
     <item
         jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
@@ -126,13 +133,6 @@
         revision="24.0.1"
         sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
         <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_22191af059f3d5a475b786ef4615663d0a097ee5\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_12d3a7e0736baba76139ce0ff6405f76cdff2522\classes.dex" />
     </item>
 
 </items>
