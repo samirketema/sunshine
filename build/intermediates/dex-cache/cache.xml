@@ -68,7 +68,7 @@
         jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="a8d51ac56b347bd2765215c692a3bd2b140d397e">
+        sha1="fe23ab40b3826eb9ea0a5cfca2a5e8649b5303c0">
         <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_af03578b4ed2d60700fa72aab7b964e3c99e862d\classes.dex" />
     </item>
     <item
@@ -117,7 +117,7 @@
         jar="C:\Users\Samir\Documents\sunshine\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="439a58dae49f2300cbaf16357c62dd3428cbb0ab">
+        sha1="7617edf6b8716ca2c1f2a1a004c71d96ec96acfd">
         <dex dex="C:\Users\Samir\Documents\sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f4acd7ffc765cfa07368fe0fdc89337d254b501c\classes.dex" />
     </item>
     <item
